@@ -1,0 +1,28 @@
+#projet plugin rtl_433 for SDRSharp C#
+.*
+.vs/**
+/rtl_433_dll/
+/GraphDisplay/
+libusb/**
+test_rtl_433_dll/**
+debug/**
+release/**
+x64/**
+Core Includes/**
+SDRSharp/**
+SDRSharp.CollapsiblePanel/**
+SDRSharp.Common/**
+SDRSharp.FrequencyEdit/**
+SDRSharp.PanView/**
+SDRSharp.Radio/**
+"Core Includes"/**
+GeneratedFiles/**
+rtl-sdr/**
+packages/**
+!/.gitignore
+!/README.md
+captures/**
+UpgradeLog*
+SDRSharp.psess
+SDRSharp240913.vsp
+
